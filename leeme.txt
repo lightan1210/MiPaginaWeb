@@ -1,0 +1,5 @@
+Esta pagina web tratara temas de matematica. Partes a realizar:
+
+	- HTML
+	- CSS
+	- Javascript
